@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+To open Cognito Console run command: amplify console
+select api
+select GraphQL
 ## Available Scripts
 
 In the project directory, you can run:
